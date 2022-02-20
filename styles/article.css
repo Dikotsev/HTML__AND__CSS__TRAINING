@@ -1,0 +1,13 @@
+#section1 {
+    display: grid;
+    grid-template-columns: auto;
+    column-count: 3;
+    column-gap: 12px;
+    
+    
+}
+
+.card > img {
+    width: 30%
+
+}
